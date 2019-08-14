@@ -1,9 +1,2 @@
 ./CoaxlinkQuadCxp12_1cam filter=lfs diff=lfs merge=lfs -text
 ./CoaxlinkOcto_1cam filter=lfs diff=lfs merge=lfs -text
-./README.txt filter=lfs diff=lfs merge=lfs -text
-./01_doc filter=lfs diff=lfs merge=lfs -text
-./02_coaxlink filter=lfs diff=lfs merge=lfs -text
-./03_scripts filter=lfs diff=lfs merge=lfs -text
-./04_ref_design filter=lfs diff=lfs merge=lfs -text
-./05_ref_design_hls filter=lfs diff=lfs merge=lfs -text
-./06_release filter=lfs diff=lfs merge=lfs -text

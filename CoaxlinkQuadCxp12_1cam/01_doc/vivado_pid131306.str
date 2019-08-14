@@ -1,0 +1,66 @@
+/*
+
+Vivado v2017.1_sdx (64-bit) [Major: 2017, Minor: 1]
+SW Build 1915620 on Thu Jun 22 17:54:59 MDT 2017
+IP Build 1908669 on Thu Jun 22 19:20:41 MDT 2017
+
+Process ID: 131306
+License: Customer
+
+Current time: 	6/28/19 5:22:14 PM PDT
+Time zone: 	Pacific Standard Time (America/Los_Angeles)
+
+OS: NAME="Ubuntu"
+OS Version: 4.15.0-39-generic
+OS Architecture: amd64
+Available processors (cores): 144
+
+Display: localhost:14.0
+Screen size: 1920x1080
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 0 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	/opt/Xilinx/SDx/2017.1/Vivado/tps/lnx64/jre
+JVM executable location: 	/opt/Xilinx/SDx/2017.1/Vivado/tps/lnx64/jre/bin/java
+Java library paths: /opt/Xilinx/SDx/2017.1/Vivado/tps/lnx64/libxslt/lib:/opt/Xilinx/SDx/2017.1/Vivado/lib/lnx64.o:/opt/Xilinx/SDx/2017.1/Vivado/tps/lnx64/jre/lib/amd64:/opt/Xilinx/SDx/2017.1/Vivado/tps/lnx64/jre/lib/amd64/server:/usr/lib/x86_64-linux-gnu:/opt/Xilinx/Vivado/2017.1/lib/lnx64.o:/opt/Xilinx/SDx/2017.1/runtime/lib/x86_64:/opt/Xilinx/SDx/2017.1/lib/lnx64.o:/opt/gurobi752/linux64/lib:/opt/Xilinx/SDx/2017.1/Vivado/lnx64/tools/dot/lib:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+
+User name: 	mattfel
+User home directory: /local/ssd/home/mattfel
+User working directory: /local/ssd/home/mattfel/slac/CoaxlinkQuadCxp12_1cam/01_doc
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: /opt/Xilinx/SDx/2017.1
+HDI_APPROOT: /opt/Xilinx/SDx/2017.1/Vivado
+RDI_DATADIR: /opt/Xilinx/SDx/2017.1/Vivado/data
+RDI_BINDIR: /opt/Xilinx/SDx/2017.1/Vivado/bin
+
+User preferences location: /home/mattfel/.Xilinx/Vivado
+Vivado preferences directory: /home/mattfel/.Xilinx/Vivado/2017.1/vivado.xml
+Vivado layouts directory: /local/ssd/home/mattfel/.Xilinx/Vivado/2017.1/layouts
+PlanAhead jar location: 	/opt/Xilinx/SDx/2017.1/Vivado/lib/classes/planAhead.jar
+Vivado Look & Feel: 	[Synthetica - the extended Synth Look and Feel. - ui.g.i.H]
+Engine tmp dir: 	./.Xil/Vivado-131306-lagos
+
+GUI allocated memory:	16,366 MB
+GUI max memory:		32,748 MB
+Engine allocated memory: 18,628 MB
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: INFO: [Common 17-1460] Use of init.tcl in /opt/Xilinx/SDx/2017.1/Vivado/scripts/init.tcl is deprecated. Please use Vivado_init.tcl  
+// Tcl Message: Sourcing tcl script '/opt/Xilinx/SDx/2017.1/Vivado/scripts/init.tcl' 16 Beta devices matching pattern found, 0 enabled. 
+// Tcl Message: Loaded SDSoC Platform Tcl Library 
+// Tcl Message: start_gui 
+// Tcl Message: xterm: cannot load font "-Misc-Fixed-bold-R-*-*-13-120-75-75-C-60-ISO8859-1" xterm: cannot load font "-Misc-Fixed-medium-R-*-*-13-120-75-75-C-120-ISO10646-1" xterm: cannot load font "-Misc-Fixed-bold-R-*-*-13-120-75-75-C-120-ISO10646-1" 
+// [GUI Memory]: 56 MB (+56727kb) [00:00:17]
+// [Engine Memory]: 18,596 MB (+19348216kb) [00:00:17]
+// WARNING: HTimer (HSTRUtils Dump STR Log Timer) is taking too long to process. Increasing delay to 4000 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 18,637 MB. GUI used memory: 40 MB. Current time: 6/28/19 5:22:16 PM PDT
